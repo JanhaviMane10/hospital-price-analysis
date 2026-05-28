@@ -1,0 +1,16 @@
+hospital_name,city,hospital_ownership,overall_rating,median_markup,avg_price,procedures_posted,price_tier,recommendation
+Banner University Medical Center Tucson,Tucson,Voluntary non-profit,4,2.54,1458.0,14,Mid Price,⭐ High Quality
+Flagstaff Medical Center,Flagstaff,Voluntary non-profit,4,2.54,1434.0,14,Mid Price,⭐ High Quality
+Mayo Clinic Hospital,Phoenix,Voluntary non-profit,5,2.55,1480.0,14,Mid Price,⭐ High Quality
+Scottsdale Healthcare - Shea,Scottsdale,Voluntary non-profit,4,2.56,1463.0,14,Mid Price,⭐ High Quality
+Banner - University Medical Center Phoenix,Phoenix,Voluntary non-profit,4,2.59,1445.0,14,Mid Price,⭐ High Quality
+Banner Gateway Medical Center,Gilbert,Voluntary non-profit,4,2.59,1428.0,14,Mid Price,⭐ High Quality
+Yuma Regional Medical Center,Yuma,Government - Local,3,2.59,1489.0,14,Mid Price,📊 Average
+Kingman Regional Medical Center,Kingman,Government - Local,3,2.6,1493.0,14,Mid Price,📊 Average
+Valleywise Health Medical Center,Phoenix,Government - Local,2,2.61,1428.0,14,Mid Price,📊 Average
+Banner Desert Medical Center,Mesa,Voluntary non-profit,3,2.62,1488.0,14,Mid Price,📊 Average
+Dignity Health - St. Joseph's Hospital,Phoenix,Voluntary non-profit,3,2.62,1466.0,14,Mid Price,📊 Average
+Tucson Medical Center,Tucson,Voluntary non-profit,3,2.62,1464.0,14,Mid Price,📊 Average
+Chandler Regional Medical Center,Chandler,Voluntary non-profit,4,2.63,1425.0,14,Mid Price,⭐ High Quality
+HonorHealth Scottsdale Osborn,Scottsdale,Voluntary non-profit,4,2.65,1469.0,14,Mid Price,⭐ High Quality
+Abrazo Arrowhead Campus,Glendale,Proprietary,3,2.66,1434.0,14,Mid Price,📊 Average

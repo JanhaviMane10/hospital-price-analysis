@@ -1,0 +1,14 @@
+{
+  "total_hospitals": 15,
+  "total_procedures": 14,
+  "mri_min": 1078.884,
+  "mri_max": 1206.292,
+  "mri_variation": 1.1180923991828593,
+  "avg_markup_vs_medicare": 2.5985714285714283,
+  "employer_annual_savings": 1854449.9999999998,
+  "top_hospitals": [
+    "Banner University Medical Center Tucson",
+    "Flagstaff Medical Center",
+    "Mayo Clinic Hospital"
+  ]
+}
